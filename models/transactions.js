@@ -1,27 +1,52 @@
 module.exports = [
     {
-      date: "07/20/2022",
+      date: "2022/07/20",
       name: "Dinner",
       amount: -100,
-      from: "Janet",
+      from: "Red Lobster",
+      category: "Food"
     },
     {
-      date: "07/17/2022",
+      date: "2022/07/17",
       name: "Supplies",
       amount: -429,
-      from: "Joy",
+      from: "Home Depot",
+      category: "Miscellaneous"
     },
     {
-      date: "07/05/2021",
+      date: "2022/07/04",
       name: "BBQ",
-      amount: -88,
-      from: "Bob",
+      amount: -300,
+      from: "Costco",
+      category: "Food"
     },
     {
-      date: "07/03/2021",
-      name: "Paycheck",
-      amount: 800,
-      from: "Job",
+      date: "2022/07/1",
+      name: "Rent",
+      amount: -800,
+      from: "Landlord",
+      category: "Housing"
     },
+    {
+      date: "2022/06/28",
+      name: "Paycheck",
+      amount: 1600,
+      from: "Job",
+      category: "Income"
+    },
+    {
+      date: "2022/06/17",
+      name: "Electric Bill",
+      amount: 90,
+      from: "ConEd",
+      category: "Utilities"
+    },
+    {
+      date: "2022/06/14",
+      name: "Paycheck",
+      amount: 1600,
+      from: "Job",
+      category: "Income"
+    }
   ];
   
